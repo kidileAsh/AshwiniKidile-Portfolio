@@ -10354,7 +10354,7 @@ section.resume-section .resume-section-content {
     .single-portfolio .portfolio-text .portfolio-title a:hover {
       /* color: #38f9d7; } */
       /* background: -webkit-linear-gradient(315deg, purple 0%, red 74%); */
-      background: -webkit-linear-gradient(315deg, #f8002f 0%, #000c14 74%);
+  background: -webkit-linear-gradient(315deg, #0b8793 20%, #360033 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     }
